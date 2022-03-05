@@ -52,7 +52,7 @@
   color: var(--color-light);
 }
 .about__content p {
-  margin: 2rem e 2.6rem;
+  margin: 2rem 0;
   color: var(--color-light);
 }
 
